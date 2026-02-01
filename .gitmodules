@@ -6,7 +6,3 @@
 	path = requal
 	url = https://github.com/RE-QDA/requal
 	branch = v1.1.3
-[submodule "requal-dev"]
-	path = requal-dev
-	url = https://github.com/RE-QDA/requal
-	branch = main
